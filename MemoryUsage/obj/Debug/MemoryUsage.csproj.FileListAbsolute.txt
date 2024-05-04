@@ -1,0 +1,12 @@
+D:\c# project\MemoryUsage\MemoryUsage\bin\Debug\MemoryUsage.exe.config
+D:\c# project\MemoryUsage\MemoryUsage\bin\Debug\MemoryUsage.exe
+D:\c# project\MemoryUsage\MemoryUsage\bin\Debug\MemoryUsage.pdb
+D:\c# project\MemoryUsage\MemoryUsage\obj\Debug\MemoryUsage.csproj.AssemblyReference.cache
+D:\c# project\MemoryUsage\MemoryUsage\obj\Debug\MemoryUsage.Form1.resources
+D:\c# project\MemoryUsage\MemoryUsage\obj\Debug\MemoryUsage.Properties.Resources.resources
+D:\c# project\MemoryUsage\MemoryUsage\obj\Debug\MemoryUsage.csproj.GenerateResource.cache
+D:\c# project\MemoryUsage\MemoryUsage\obj\Debug\MemoryUsage.csproj.CoreCompileInputs.cache
+D:\c# project\MemoryUsage\MemoryUsage\obj\Debug\MemoryUsage.exe
+D:\c# project\MemoryUsage\MemoryUsage\obj\Debug\MemoryUsage.pdb
+D:\c# project\MemoryUsage\MemoryUsage\obj\Debug\MemoryUsage.Form2.resources
+D:\c# project\MemoryUsage\MemoryUsage\obj\Debug\MemoryUsage.Form3.resources
